@@ -39,7 +39,7 @@ Discord Suggestions Manager est un bot qui vous permet de gérer les suggestions
 </details>
 
 # Voir aussi
-- (Discord Invite Logger Bot)[https://github.com/azynux/discord-invite-logger]
+- [Discord Invite Logger Bot](https://github.com/azynux/discord-invite-logger)
 
 ### Plus de fonctionnalités à venir... Tenez vous informé !
 
