@@ -1,0 +1,12 @@
+Bot connecté en tant que $bot_username :: Bot connected as $bot_username :: Bot inició sesión como $bot_username :: Bot hat sich als $bot_username angemeldet
+Suggérez une nouveauté ou un changement ! :: Suggest something new or a change ! :: ¡ Sugiere algo nuevo o un cambio ! :: Schlagen Sie etwas Neues oder eine Änderung vor !
+détaillez :: details :: detalles :: detail
+Expliquez votre suggestion :: Explain your suggestion :: Explique sus sugerencia :: Begründen Sie Ihren Vorschlag
+Votre suggestion a bien été envoyée ! :: Your suggestion has been sent successfully :: ¡ Tu sugerencia ha sido enviada ! :: Ihr Vorschlag wurde gesendet !
+Oops, il y a eu une erreur ! :: Oops, there was an error ! :: Ups, hubo un error ! :: Ups, da ist ein Fehler aufgetreten !
+Suggestion :: Suggestion :: Sugerencia :: Vorschlag
+Commentaires des utilisateurs :: Users Feedback :: Comentarios del usuario :: Benutzerkommentare
+Approuver :: Upvote :: Aprobar :: Genehmigen
+Désapprouver :: Downvote :: Desaprobar :: Zu mißbilligen
+Options Staff :: Staff Options :: Opciones de personal :: Personaloptionen
+Plus d'informations :: More informations :: Más información :: Mehr Informationen
