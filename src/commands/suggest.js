@@ -21,7 +21,7 @@ module.exports = (client) => ({
      * @param {CommandInteraction} interaction 
      */
     async execute(client, interaction) {
-        /* if(!db.has("suggestions")) */ db.set("suggestions", {});
+        if(!db.has("suggestions")) db.set("suggestions", {});
 
         await interaction.deferReply();
         const errorEmbed = new MessageEmbed()
